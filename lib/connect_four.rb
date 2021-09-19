@@ -1,6 +1,5 @@
 # lib/connect_four.rb
 
-require_relative './player'
 require 'pry-byebug'
 
 class ConnectFour

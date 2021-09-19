@@ -152,8 +152,4 @@ describe ConnectFour do
       $stdout = STDOUT
     end
   end
-
-  describe "#play" do
-
-  end
 end
